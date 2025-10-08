@@ -7,6 +7,7 @@
 | **프로젝트 이름** | CRUD 기능이 구현된 게시판의 **댓글 기능 구현 프로젝트** |
 | **목표** | 기존 CRUD 게시판에 추가로 **댓글(Comment) 기능**을 구현하고, 이를 통해 게시판 기능을 완성하는 것. |
 | **핵심 기술 제약** | 백엔드(RDBMS, 세션/쿠키) 기술 없이 **HTML, CSS, JavaScript**와 **`localStorage`**에 의존하여 기능 구현. |
+| **Git Repository URL** | https://github.com/poolStackDeveloper/boardqna13.git (boardqna13)|
 
 ---
 
